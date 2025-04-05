@@ -4,7 +4,7 @@ Welcome to my Deep Learning repository — a personal space documenting my journ
 
 This repository is a collection of my individual deep learning projects, where I explore the core concepts of:
 
-- **Artificial Neural Networks (ANN)**
+- **Neural Networks**
 - **Computer Vision**
 - **Natural Language Processing (NLP)**
 
