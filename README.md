@@ -6,7 +6,8 @@ This repository is a collection of my individual deep learning projects, where I
 
 - **Neural Networks**
 - **Computer Vision**
-- **Natural Language Processing (NLP)**ndincownvwdbv[qwe
+- **Natural Language Processing (NLP)**ndincownvwdbvfckwjbef;w
+- [qwe
 
 Each project represents a milestone in my learning path, helping me strengthen both my theoretical understanding and practical implementation skills.
 
