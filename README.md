@@ -8,8 +8,7 @@ This repository is a collection of my individual deep learning projects, where I
 - **Computer Vision**
 - **Natural Language Processing (NLP)**
 
-Each project represents a milestone in my learning path, helping me strengthen both my theoretical understanding and practical implementation skillsefwefawaweg.s njkab caca
-
+Each project represents a milestone in my learning path, helping me strengthen both my theoretical understanding and practical implementation skills.
 ---
 
 ## 🔍 Focus Areas
