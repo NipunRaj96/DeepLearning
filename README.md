@@ -2,7 +2,7 @@
 
 Welcome to my Deep Learning repository — a personal space documenting my journey into the world of Artificial Intelligence and Neural Networks.
 
-This repository is a collection of my individual deep learning projects, where I explore the core concepts of:
+This repository is a collection of my individual deep learning projects, where I explore the core concepts of: j kj k 
 
 - **Neural Networks**
 - **Computer Vision**
