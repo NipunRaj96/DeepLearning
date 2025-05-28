@@ -1,6 +1,6 @@
 # 🧠 Deep Learning Journey
 
-Welcome to my Deep Learning repository — a personal space documenting my journey into the world of Artificial Intelligence and Neural Networks.
+Welcome to my Deep Learning repository — a personal space documenting my journey into the world of Artificial Intelligence , Neural Networks and Natural Language Processing.
 
 This repository is a collection of my individual deep learning projects, where I explore the core concepts of: 
 
